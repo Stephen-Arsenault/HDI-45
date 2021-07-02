@@ -6,6 +6,7 @@ This repo contains dimensional drawings, Solidworks files, and a PCB gerber for 
 ![HDI-45 Dimensional Drawing](https://raw.githubusercontent.com/Stephen-Arsenault/HDI-45/main/Images/hdi-45_drawing.jpg)
 
 ![HDI-45 Pinout](https://raw.githubusercontent.com/Stephen-Arsenault/HDI-45/main/Images/hdi-45_pinout.jpg)
+
 To learn more about the HDI-45 Pinout please follow [this resource](https://www.macrepaircentral.us/power-macintosh-7100-series/hdi-pinouts.html) which I used to label the PCB gerber.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
