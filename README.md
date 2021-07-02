@@ -1,5 +1,5 @@
 ![HDI-45 PCB render](https://raw.githubusercontent.com/Stephen-Arsenault/HDI-45/main/Images/hdi-45_render.png)
-[![License: CC BY](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 # What is this?
 This repo contains [dimensional drawings](/Drawings), [Solidworks files](/Solidworks), and a [PCB gerber](/Gerbers) for reference of the HDI-45 connector. The files are intended to conveniently enable the creation of adapters (e.g., VGA out, Audio Out) on Apple computers which use HDI-45.
 
