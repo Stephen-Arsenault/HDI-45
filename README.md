@@ -3,6 +3,8 @@
 # What is this?
 This repo contains [dimensional drawings](/Drawings), [Solidworks files](/Solidworks), and a [PCB gerber](/Gerbers) [(open hardware)](https://oshwlab.com/stephenarsenault/open-source-hdi-45) for reference of the HDI-45 connector. The files are intended to conveniently enable the creation of adapters (e.g., VGA out, Audio Out) on Apple computers which use HDI-45.
 
+Recommended pin-length of 8.00mm from PCB surface to end of pin.
+
 ![HDI-45 Dimensional Drawing](https://raw.githubusercontent.com/Stephen-Arsenault/HDI-45/main/Images/hdi-45_drawing.jpg)
 
 ![HDI-45 Pinout](https://raw.githubusercontent.com/Stephen-Arsenault/HDI-45/main/Images/hdi-45_pinout.jpg)
